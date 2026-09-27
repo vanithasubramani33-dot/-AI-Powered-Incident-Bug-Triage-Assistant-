@@ -28,7 +28,7 @@ jobs:
 
       - name: Install
         working-directory: incident-triage-assistant/frontend
-        run: npm ci
+        run: npm install
 
       - name: Build
         working-directory: incident-triage-assistant/frontend
