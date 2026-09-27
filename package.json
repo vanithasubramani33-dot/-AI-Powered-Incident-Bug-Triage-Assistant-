@@ -1,0 +1,16 @@
+{
+  "name": "ai-powered-incident",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "dependencies": {
+    "@netlify/database": "^1.0.0",
+    "@netlify/functions": "^3.0.0",
+    "bcryptjs": "^2.4.3",
+    "drizzle-orm": "beta",
+    "jsonwebtoken": "^9.0.2"
+  },
+  "devDependencies": {
+    "drizzle-kit": "beta"
+  }
+}
