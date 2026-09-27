@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/-AI-Powered-Incident-Bug-Triage-Assistant/static/css/main.ce943e1e.css",
-    "main.js": "/-AI-Powered-Incident-Bug-Triage-Assistant/static/js/main.61ca6784.js",
-    "index.html": "/-AI-Powered-Incident-Bug-Triage-Assistant/index.html",
-    "main.ce943e1e.css.map": "/-AI-Powered-Incident-Bug-Triage-Assistant/static/css/main.ce943e1e.css.map",
-    "main.61ca6784.js.map": "/-AI-Powered-Incident-Bug-Triage-Assistant/static/js/main.61ca6784.js.map"
+    "main.css": "/-AI-Powered-Incident-Bug-Triage-Assistant-/static/css/main.ce943e1e.css",
+    "main.js": "/-AI-Powered-Incident-Bug-Triage-Assistant-/static/js/main.61ca6784.js",
+    "index.html": "/-AI-Powered-Incident-Bug-Triage-Assistant-/index.html",
+    "main.ce943e1e.css.map": "/-AI-Powered-Incident-Bug-Triage-Assistant-/static/css/main.ce943e1e.css.map",
+    "main.61ca6784.js.map": "/-AI-Powered-Incident-Bug-Triage-Assistant-/static/js/main.61ca6784.js.map"
   },
   "entrypoints": [
     "static/css/main.ce943e1e.css",
