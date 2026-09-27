@@ -1,0 +1,9 @@
+[build]
+  command = "npm install --prefix incident-triage-assistant/frontend && npm run build --prefix incident-triage-assistant/frontend"
+  publish = "incident-triage-assistant/frontend/build"
+  functions = "netlify/functions"
+
+[[redirects]]
+  from = "/*"
+  to = "/index.html"
+  status = 200
